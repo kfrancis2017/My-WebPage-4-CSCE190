@@ -1,0 +1,88 @@
+h1 {
+    position: absolute;
+    top: 0%;
+    left: 35%;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 3vw;
+}
+body {
+    background-image: url("images/toolsbackground.jpeg");
+}
+.assignment .ProblemImage {
+    top: 15%;
+    left: 10%;
+    position: absolute;
+    width: 22%;  
+    height: auto;   
+}
+h2 {
+    top: 50%;
+    left: 10%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
+.assignment .AffinityImage {
+    top: 15%;
+    left: 40%;
+    position: absolute;
+    width: 22%;  
+    height: auto;   
+}
+h3 {
+    top: 43%;
+    left: 40%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
+.assignment .PersonasImage {
+    top: 15%;
+    left: 70%;
+    position: absolute;
+    width: 22%;  
+    height: auto;   
+}
+h4 {
+    top: 57.5%;
+    left: 72.5%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
+.assignment .Sketches {
+    top: 65%;
+    left: 10%;
+    position: absolute;
+    width: 22%;  
+    height: auto; 
+}
+
+h5 {
+    top: 58%;
+    left: 10%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
+
+.assignment .Storyboard {
+    top: 65%;
+    left: 40%;
+    position: absolute;
+    width: 23%;  
+    height: auto;   
+}
+h6 {
+    top: 55%;
+    left: 40%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
