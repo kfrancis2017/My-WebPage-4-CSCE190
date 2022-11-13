@@ -86,3 +86,19 @@ h6 {
     font-family: 'Segoe UI';
     font-size: 1vw;
 }
+.assignment .PPrototyping {
+    top: 75%;
+    left: 70%;
+    position: absolute;
+    width: 22%;  
+    height: auto;   
+}
+
+h7 {
+    top: 70%;
+    left: 70%;
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 1vw;
+}
