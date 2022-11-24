@@ -14,10 +14,10 @@ body {
     left: 10%;
     position: absolute;
     width: 22%;  
-    height: auto;   
+    height: 43%;   
 }
 h2 {
-    top: 50%;
+    top: 58%;
     left: 10%;
     position: absolute;
     color: white;
@@ -32,8 +32,8 @@ h2 {
     height: auto;   
 }
 h3 {
-    top: 43%;
-    left: 40%;
+    top: 42%;
+    left: 42%;
     position: absolute;
     color: white;
     font-family: 'Segoe UI';
@@ -55,7 +55,7 @@ h4 {
     font-size: 1vw;
 }
 .assignment .Sketches {
-    top: 65%;
+    top: 75%;
     left: 10%;
     position: absolute;
     width: 22%;  
@@ -63,7 +63,7 @@ h4 {
 }
 
 h5 {
-    top: 58%;
+    top: 67%;
     left: 10%;
     position: absolute;
     color: white;
@@ -72,25 +72,26 @@ h5 {
 }
 
 .assignment .Storyboard {
-    top: 65%;
+    top: 80%;
     left: 40%;
     position: absolute;
     width: 23%;  
     height: auto;   
 }
 h6 {
-    top: 55%;
-    left: 40%;
+    top: 70%;
+    left: 42%;
     position: absolute;
     color: white;
     font-family: 'Segoe UI';
     font-size: 1vw;
 }
+
 .assignment .PPrototyping {
     top: 75%;
     left: 70%;
     position: absolute;
-    width: 23%;  
+    width: 22%;  
     height: auto;   
 }
 
@@ -101,4 +102,22 @@ h8 {
     color: white;
     font-family: 'Segoe UI';
     font-size: 1vw;
+    font-weight: bold;
 }
+
+.protobtn {
+    background-color: white; 
+    border: none;
+    color: #0093FF;
+    padding: 15px 32px;
+    top: 57%;
+    left: 41%;
+    width: 20%;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+  }
