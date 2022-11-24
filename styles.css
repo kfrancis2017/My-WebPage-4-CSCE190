@@ -1,7 +1,7 @@
 h1 {
     position: absolute;
     top: 0%;
-    left: 35%;
+    left: 37%;
     color: white;
     font-family: 'Segoe UI';
     font-size: 3vw;
@@ -72,15 +72,15 @@ h5 {
 }
 
 .assignment .Storyboard {
-    top: 80%;
+    top: 90%;
     left: 40%;
     position: absolute;
     width: 23%;  
     height: auto;   
 }
 h6 {
-    top: 70%;
-    left: 42%;
+    top: 80%;
+    left: 42.5%;
     position: absolute;
     color: white;
     font-family: 'Segoe UI';
@@ -105,19 +105,15 @@ h8 {
     font-weight: bold;
 }
 
-.protobtn {
-    background-color: white; 
-    border: none;
-    color: #0093FF;
-    padding: 15px 32px;
-    top: 57%;
-    left: 41%;
-    width: 20%;
+.protoimg {
+    top: 52%;
+    left: 47%;
+    width: 7%;
+    height: auto;
     position: absolute;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    font-family: 'Segoe UI';
-    font-weight: bold;
   }
+
+
+
+
+
